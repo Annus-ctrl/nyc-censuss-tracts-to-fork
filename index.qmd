@@ -14,7 +14,7 @@ Newyork City
 library(tidyverse)
 library(scales)
 A <- read_csv("data/nyc_tracts.csv")
-A
+
 ```
 ```{r}
 #| warning: false
