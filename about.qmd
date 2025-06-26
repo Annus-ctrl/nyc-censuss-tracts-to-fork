@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "Median Income for NYC Census Tracts"
 ---
 
 About this site
